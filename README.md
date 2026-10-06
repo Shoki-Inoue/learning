@@ -10,9 +10,10 @@ learning/
 │   ├── README.md      # 学習ノート + 動かし方
 │   ├── mise.toml      # このテーマのランタイムバージョン（必要なら）
 │   └── ...            # コード（pyproject.toml, package.json, src/ など自由に）
+├── books/<書名>/      # 本ごとの読書ノート（章ごとに chNN.md）
 ├── scratch/           # 使い捨ての試し書き（git 管理外）
-├── docs/              # リポジトリ全体のメモ（環境一覧など）
-└── _templates/topic/  # 新テーマのひな形
+├── docs/              # 全体のメモ（roadmap.md: 学習方針 / environments.md: 環境）
+└── _templates/        # 新テーマ（topic/）・本（book/）のひな形
 ```
 
 ## 新しいテーマの始め方
