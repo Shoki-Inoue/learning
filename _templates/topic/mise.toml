@@ -1,0 +1,7 @@
+# このテーマで使うランタイムのバージョンを固定する（mise 用）
+# 不要な行は消す。https://mise.jdx.dev/
+[tools]
+# python = "3.13"
+# node = "24"
+# go = "latest"
+# rust = "stable"
